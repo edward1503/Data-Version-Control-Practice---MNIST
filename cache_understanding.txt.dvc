@@ -1,0 +1,8 @@
+outs:
+- md5: 9593d121e53f761fd19be5c51fc573f6
+  size: 22
+  hash: md5
+  path: cache_understanding.txt
+
+meta:
+  pref: 97f09
